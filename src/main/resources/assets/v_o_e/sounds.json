@@ -1,0 +1,21 @@
+{
+  "vase_block_break": {
+    "subtitle": "sounds.v_o_e.vase_break",
+    "sounds": [
+      "v_o_e:block/vase/break1",
+      "v_o_e:block/vase/break2",
+      "v_o_e:block/vase/break3",
+      "v_o_e:block/vase/break4"
+    ]
+  },
+  "vase_block_step": {
+    "subtitle": "sounds.v_o_e.vase_step",
+    "sounds": [
+      "v_o_e:block/vase/step1",
+      "v_o_e:block/vase/step2",
+      "v_o_e:block/vase/step3",
+      "v_o_e:block/vase/step4",
+      "v_o_e:block/vase/step5"
+    ]
+  }
+}

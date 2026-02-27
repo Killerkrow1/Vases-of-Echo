@@ -1,0 +1,12 @@
+{
+	"variants": {
+		"part=lower,facing=north": { "model": "v_o_e:block/big_vase" },
+		"part=lower,facing=south": { "model": "v_o_e:block/big_vase", "y": 180 },
+		"part=lower,facing=west":  { "model": "v_o_e:block/big_vase", "y": 270 },
+		"part=lower,facing=east":  { "model": "v_o_e:block/big_vase", "y": 90  },
+		"part=upper,facing=north": { "model": "v_o_e:block/empty" },
+		"part=upper,facing=south": { "model": "v_o_e:block/empty" },
+		"part=upper,facing=west":  { "model": "v_o_e:block/empty" },
+		"part=upper,facing=east":  { "model": "v_o_e:block/empty" }
+	}
+}

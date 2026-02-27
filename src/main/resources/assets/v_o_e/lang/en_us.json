@@ -1,0 +1,8 @@
+{
+  "block.v_o_e.big_vase": "Big Ancient Vase",
+  "block.v_o_e.tall_vase": "Tall Ancient Vase",
+  "block.v_o_e.small_vase": "Small Ancient Vase",
+
+  "sounds.v_o_e.vase_break": "Block Broken",
+  "sounds.v_o_e.vase_step": "Footsteps"
+}

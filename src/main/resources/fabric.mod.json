@@ -1,0 +1,37 @@
+{
+	"schemaVersion": 1,
+	"id": "v_o_e",
+	"version": "${version}",
+	"name": "Vases of Echo",
+	"description": "This project adds Vases that contain Loot to Ancient Cities. Inspired by the Vases from CSMP.",
+	"authors": [
+		"CalinXD_!"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/vases-of-echo",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/v_o_e/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"dev.cxd.v_o_e.VasesOfEcho"
+		],
+		"client": [
+			"dev.cxd.v_o_e.VasesOfEchoClient"
+		],
+		"fabric-datagen": [
+			"dev.cxd.v_o_e.VasesOfEchoDataGenerator"
+		]
+	},
+	"mixins": [
+		"v_o_e.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "~1.20.1",
+		"java": ">=17",
+		"fabric-api": "*"
+	}
+}
