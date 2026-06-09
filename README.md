@@ -1,3 +1,10 @@
+# UPDATED BY KILLERKROW TO USE STRUCTURE POOL API
+Killerkrow here, I updated the mod to use Structure Pool API which essentially just mixes in the custom structures made by CalvinXD to go straight into the MC structure pool.
+
+This should in theory make it compatable with other mods that overwrite the Ancient City structures, I'm not sure tho.
+
+OLD DESCRIPTION MADE BY CALVINXD IS DOWN BELOW
+
 ![Vases of Echo](https://cdn.modrinth.com/data/cached_images/601e698984d83ef2be91594702aeeedcb635b0a4.png)
 # 
 <center>
